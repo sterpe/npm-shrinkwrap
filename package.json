@@ -1,0 +1,15 @@
+{
+  "name": "npm-shrinkwrap",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sterpe@rubiconproject.com",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "devDependencies": {
+    "browserify": "^13.0.0",
+    "browserify-shim": "^3.8.12"
+  }
+}
