@@ -1,7 +1,7 @@
 {
   "name": "npm-shrinkwrap",
   "version": "0.0.0",
-  "description": "",
+  "description": "## Steps to reproduce",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +11,15 @@
   "devDependencies": {
     "browserify": "^13.0.0",
     "browserify-shim": "^3.8.12"
-  }
+  },
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sterpe/npm-shrinkwrap.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sterpe/npm-shrinkwrap/issues"
+  },
+  "homepage": "https://github.com/sterpe/npm-shrinkwrap#readme"
 }
